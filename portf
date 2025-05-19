@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Portfólio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="banner">
+    <img src="banner.jpg" alt="Imagem de banner" class="banner-img" />
+    <div class="perfil-container">
+      <img src="perfil.jpg" alt="Foto de Perfil" class="perfil-img" />
+      <h1>Eu sou Yuri</h1>
+    </div>
+  </header>
+
+  <main>
+    <section class="apresentacao">
+      <h2>Sobre o Projeto</h2>
+      <p>
+        Este portfólio foi criado para apresentar os principais projetos desenvolvidos ao longo do meu aprendizado em programação.
+        Ao longo dessa jornada, aprendi HTML, CSS, lógica de programação e como transformar ideias em soluções digitais.
+      </p>
+    </section>
+
+    <section class="habilidades">
+      <h2>Habilidades Desenvolvidas</h2>
+      <ul>
+        <li>HTML e estruturação de páginas</li>
+        <li>CSS e estilização responsiva</li>
+        <li>Organização de código</li>
+        <li>Comunicação e apresentação de projetos</li>
+      </ul>
+    </section>
+
+    <section class="objetivos">
+      <h2>Objetivos Profissionais</h2>
+      <p>
+        Com este portfólio, quero mostrar minha dedicação e evolução na área de tecnologia. No futuro, pretendo atuar como desenvolvedor web,
+        contribuindo para projetos que impactem positivamente a vida das pessoas.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Compartilhe: <a href="#">https://meuportfolio.com</a></p>
+  </footer>
+</body>
+</html>
